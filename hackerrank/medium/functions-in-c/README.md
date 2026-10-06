@@ -63,7 +63,7 @@ Note: I/O will be automatically handled.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T15:41:28.150Z  
+**Submitted:** 2026-10-06T15:40:45.203Z  
 
 ```c
 #include <stdio.h>
